@@ -1,0 +1,5 @@
+version: 1
+name: Files
+description: View and manage your ArentCloud files
+permissions:
+  - fs

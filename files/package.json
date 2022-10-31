@@ -1,0 +1,10 @@
+{
+  "name": "arentnet-files",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "author": "Wyatt Arent",
+  "license": "Apache 2.0",
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
